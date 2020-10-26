@@ -38,6 +38,7 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 ![Mongo Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/brunoemferreira)
 ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white&link=https://github.com/brunoemferreira)
 ![MySql Badge](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=MySql&logoColor=white&link=https://github.com/brunoemferreira)
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/brunoemferreira)
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
