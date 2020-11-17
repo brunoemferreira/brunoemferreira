@@ -51,10 +51,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoemferreira&layout=compact&theme=algolia" />
       </td>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&theme=algolia&layout=compac" />
       </td>
     </tr>
 </center>
- 
-                                https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&theme=algolia&layout=compac  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&v=2)](https://github.com/anuraghazra/github-readme-stats)
