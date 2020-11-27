@@ -51,7 +51,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&theme=midnight-purple" />
       </td>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&theme=midnight-purple&layout=compact&v2" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&theme=midnight-purple&langs_count=20&layout=compact&v2" />
       </td>
     </tr>
 </center>
