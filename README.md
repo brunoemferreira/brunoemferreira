@@ -41,6 +41,10 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/brunoemferreira)
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
 
+**Statistics:**
+
+![](https://komarev.com/ghpvc/?username=brunoemferreira&color=blue&style=flat)
+
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <center>
