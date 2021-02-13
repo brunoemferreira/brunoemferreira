@@ -59,7 +59,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       </td>
     </tr>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true" />
+      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=react" />
       </td>
     </tr>
 
