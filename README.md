@@ -58,6 +58,11 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&theme=react&langs_count=20&layout=compact&v2" />
       </td>
     </tr>
+    <tr>
+      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true" />
+      </td>
+    </tr>
+
 </center>
 
 
