@@ -25,48 +25,43 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 **My Stack**
 
 <div>
-   <img src="./assets/delphi.png" width="35px">&ensp;&ensp;
-   <img src="./assets/nodejs.svg" width="35px">&ensp;&ensp;
-   <img src="./assets/javascript.svg" width="35px">&ensp;&ensp;
-   <img src="./assets/typescript.svg" width="35px">&ensp;&ensp;
-   <img src="./assets/react.svg" width="35px">&ensp;&ensp;
-   <img src="./assets/html5.svg" width="35px">&ensp;&ensp;
-   <img src="./assets/css3.svg" width="35px">
+   <img src="./assets/delphi.png" width="30px">&ensp;&ensp;
+   <img src="./assets/oracle3.svg" width="80px">&ensp;&ensp;
+   <img src="./assets/html5.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/css3.svg" width="30px"> &ensp;&ensp;
+   <img src="./assets/firebase.svg" width="30px"> &ensp;&ensp;
 </div>
 
 **Tools**
 
 <div>
+   <img src="./assets/mint.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/windows.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/figma.svg" height="35px">&ensp;&ensp;
+   <img src="./assets/vscode.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/androidstudio.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/eclipse.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/jira.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/Insomnia.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/postman.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/svn.svg" width="30px">&ensp;&ensp;
    <img src="./assets/git.svg" width="30px">&ensp;&ensp;
    <img src="./assets/github.svg" width="30px">&ensp;&ensp;
    <img src="./assets/sourcetree.svg" width="30px">&ensp;&ensp;
-   
+   <img src="./assets/notion.png" width="30px">&ensp;&ensp;
 </div>
-
-**Tools**
-
-[![Linux Mint Badge](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white&link=https://github.com/brunoemferreira)](https://)
-[![VsCode Badge](https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&link=https://github.com/brunoemferreira)](https://code.visualstudio.com/)
-[![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white&link=https://github.com/brunoemferreira)](https://)
-[![Android Studio Badge](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white&link=https://github.com/brunoemferreira)](https://)
-[![Insomnia Badge](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white&link=https://github.com/brunoemferreira)](https://)
-[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&link=https://github.com/brunoemferreira)](https://)
-[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://github.com/brunoemferreira)](https://)
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/brunoemferreira)](https://)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunoemferreira)](https://)
 
 **Always Learning:**
 
-![Delphi Badge](https://img.shields.io/badge/-Delphi-c14438?style=flat-square&logoColor=white&link=mailto:brunoemf@gmail.com)
+ <img src="./assets/javascript.svg" width="35px">&ensp;&ensp;
+ <img src="./assets/typescript.svg" width="35px">&ensp;&ensp;
+ <img src="./assets/nodejs.svg" width="35px">&ensp;&ensp;
+ <img src="./assets/react.svg" width="35px">&ensp;&ensp;
+ <img src="./assets/java.svg" width="35px">&ensp;&ensp;
+ <img src="./assets/kotlin.svg" width="35px">&ensp;&ensp;
+
 ![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white&link=https://github.com/brunoemferreira)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/brunoemferreira)
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white&link=https://github.com/brunoemferreira)
-![NodeJs Badge](https://img.shields.io/badge/-Node.Js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://github.com/brunoemferreira)
-![React.JS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/brunoemferreira)
-![Java Badge](https://img.shields.io/badge/-Java-c14438?style=flat-square&logo=Java&logoColor=white&link=https://github.com/brunoemferreira)
-![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/brunoemferreira)
 ![Mongo Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://github.com/brunoemferreira)
-![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white&link=https://github.com/brunoemferreira)
 ![MySql Badge](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=MySql&logoColor=white&link=https://github.com/brunoemferreira)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/brunoemferreira)
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
