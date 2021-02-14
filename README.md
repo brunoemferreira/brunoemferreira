@@ -10,27 +10,21 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 - ⚙️ Mastering: `.pas`,`.sql`,`.html`,`.css`
 - 💬 I'm mostly active within the **HTML**, **CSS**, **JavaScript**, **NodeJs** and **Delphi** communities
 
-### 📬 Get in Touch
+### 📧 Get in Touch
 
-- StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
-- GitHub: [github.com/federico-dondi][github]
-- LinkedIn: coming soon
-- Site: [federico-dondi.github.io][site]
-- E-mail: federico.dondi2@studio.unibo.it
+- GitHub: [github.com/brunoemferreira][github]
+- GitLab: [gitlab.com/brunoemf][gitlab]
+- LinkedIn: [www.linkedin.com/in/brunoemf/][linkedin]
+- Site: coming soon
+- E-mail: brunoemf@gmail.com
+- Skype: [bruno.eduardo.de.moura.ferreira][skype]
+
+[github]: https://github.com/brunoemferreira
+[gitlab]: https://gitlab.com/brunoemf
+[linkedin]: https://www.linkedin.com/in/brunoemf/
+[skype]: https://join.skype.com/invite/EZxGNG4S9il2
 
 </p>
-
-<!-- ********************************* Social Media ******************************************** -->
-<div align="center">
-  <h4><strong>Follow me on Social Media</strong></h4>
-
-  [<img src="./assets/github.svg" width="30px">](https://github.com/brunoemferreira) &ensp;&ensp;
-  [<img src="./assets/gitlab.svg" width="30px">](https://gitlab.com/brunoemf) &ensp;&ensp;
-  [<img src="./assets/linkedin.svg" width="30px">](https://www.linkedin.com/in/brunoemf/) &ensp;&ensp;
-  [<img src="./assets/gmail.svg" width="30px">](mailto:brunoemf@gmail.com) &ensp;&ensp;
-  [<img src="./assets/Skype.svg" width="30px">](https://join.skype.com/invite/EZxGNG4S9il2)
-</div>
-
 
 <!-- ********************************* My Stack ******************************************** -->
 <div align="left">
@@ -99,10 +93,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
     </tr>
 
 </center>
-
-
-
-
-
 
 ---
