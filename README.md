@@ -1,16 +1,29 @@
 <!-- ********************************* Logotipo ************************************************ -->
-<div align="center">
-   <img src="./assets/top2.gif">
-</div>
+   <img src="./assets/top2.gif" align="center">
 
 <!-- ****************************************** Bio ******************************************** -->
 </br>
+</br>
+
+<div align="left">
 
 Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 
 - 🔭 Hi I’m currently working at [Indra](https://www.indracompany.com/pt-br/indra) developing on Delphi and Oracle eventually on Java Android and in my free time i'm working on my Ecommerce Platform, using NodeJs and ReactJs.
 - 🌱 I’m currently learning Java, Spring, ReactJs, React Native, NodeJs, JavaScript, TypeScript, Vue...
+</div>
 
+<div align="right" min-width="400px" max-width="400px">
+
+  <h3><strong>Follow me on Social Media</strong></h3>
+
+  [<img src="./assets/octocat.png" width="30px">](https://github.com/brunoemferreira) &ensp;&ensp;
+  [<img src="./assets/gitlab.svg" width="30px">](https://gitlab.com/brunoemf) &ensp;&ensp;
+  [<img src="./assets/linkedin.svg" width="30px">](https://www.linkedin.com/in/brunoemf/) &ensp;&ensp;
+  [<img src="./assets/gmail.svg" width="30px">](mailto:brunoemf@gmail.com) &ensp;&ensp;
+  [<img src="./assets/Skype.svg" width="30px">](https://join.skype.com/invite/EZxGNG4S9il2)
+
+</div>
 
 **My Stack**
 
@@ -85,18 +98,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <!-- ********************************* Social Media ******************************************** -->
 
 
-<div align="center">
 
-<h3> Follow me on Social Media</h3>
-
-</br>
-
-[<img src="./assets/octocat.png" width="35px">](https://github.com/brunoemferreira) &ensp;&ensp;
-[<img src="./assets/gitlab.svg" width="35px">](https://gitlab.com/brunoemf) &ensp;&ensp;
-[<img src="./assets/linkedin.svg" width="35px">](https://www.linkedin.com/in/brunoemf/) &ensp;&ensp;
-[<img src="./assets/gmail.svg" width="35px">](mailto:brunoemf@gmail.com) &ensp;&ensp;
-[<img src="./assets/Skype.svg" width="35px">](https://join.skype.com/invite/EZxGNG4S9il2)
-
-</div>
 
 ---
