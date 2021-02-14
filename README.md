@@ -17,7 +17,7 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 - 🔭 Hi I’m currently working at [Indra](https://www.indracompany.com/pt-br/indra) developing on Delphi and Oracle eventually on Java Android and in my free time i'm working on my Ecommerce Platform, using NodeJs and ReactJs.
 - 🌱 I’m currently learning Java, Spring, ReactJs, React Native, NodeJs, JavaScript, TypeScript, Vue...
 
-**Tools:**
+**Tools**
 
 [![Linux Mint Badge](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white&link=https://github.com/brunoemferreira)](https://)
 [![VsCode Badge](https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&link=https://github.com/brunoemferreira)](https://code.visualstudio.com/)
@@ -53,17 +53,17 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <center>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&include_all_commits=true&theme=react" alt="Bruno's github stats" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Bruno's github stats" />
       </td>
     </tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&theme=react" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&theme=highcontrast" />
       </td>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&theme=react&langs_count=20&layout=compact&v2" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&theme=highcontrast&langs_count=20&layout=compact&v2" />
       </td>
     </tr>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=react" />
+      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=highcontrast" />
       </td>
     </tr>
 
