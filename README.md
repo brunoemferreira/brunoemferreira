@@ -36,6 +36,7 @@ I am a self-taught developer, with almost twenty years of experience in desktop 
    <img src="./assets/firebase.svg" width="30px">&ensp;&ensp;
    <img src="./assets/oracle3.svg" width="80px">&ensp;&ensp;
    <img src="./assets/mysql.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/firebird.svg" width="30px">&ensp;&ensp;
 </div>
 
 <!-- ********************************* Tools ******************************************** -->
