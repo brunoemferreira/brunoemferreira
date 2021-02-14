@@ -7,16 +7,17 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 
 - 🔭 Hi I’m currently working at [Indra](https://www.indracompany.com/pt-br/indra) developing on Delphi and Oracle eventually on Java Android and in my free time i'm working on my Ecommerce Platform, using NodeJs and ReactJs.
 - 🌱 I’m currently learning **NodeJs**, **JavaScript**, **TypeScript**, **ReactJs**, **React Native**, **Java**, **Spring** and **Kotlin** 
-- ⚙️ Mastering: `.pas`,`.html`,`.css`,`.sql`
+- ⚙️ Mastering: `.pas`,`.sql`,`.html`,`.css`
 - 💬 I'm mostly active within the **HTML**, **CSS**, **JavaScript**, **NodeJs** and **Delphi** communities
-- 📬 Get in Touch :
 
-  [<img src="./assets/github.svg" width="30px">](https://github.com/brunoemferreira) &ensp;&ensp;
-  [<img src="./assets/gitlab.svg" width="30px">](https://gitlab.com/brunoemf) &ensp;&ensp;
-  [<img src="./assets/linkedin.svg" width="30px">](https://www.linkedin.com/in/brunoemf/) &ensp;&ensp;
-  [<img src="./assets/gmail.svg" width="30px">](mailto:brunoemf@gmail.com) &ensp;&ensp;
-  [<img src="./assets/Skype.svg" width="30px">](https://join.skype.com/invite/EZxGNG4S9il2)
-  
+### 📬 Get in Touch
+
+- StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
+- GitHub: [github.com/federico-dondi][github]
+- LinkedIn: coming soon
+- Site: [federico-dondi.github.io][site]
+- E-mail: federico.dondi2@studio.unibo.it
+
 </p>
 
 <!-- ********************************* Social Media ******************************************** -->
