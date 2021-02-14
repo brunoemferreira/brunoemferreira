@@ -53,13 +53,13 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <center>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Bruno's github stats" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&include_all_commits=true&theme=highcontrast" alt="Bruno's github stats" />
       </td>
     </tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&theme=highcontrast" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=highcontrast" />
       </td>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&theme=highcontrast&langs_count=20&layout=compact&v2" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&hide_border=true&theme=highcontrast&langs_count=20&layout=compact&v2" />
       </td>
     </tr>
     <tr>
