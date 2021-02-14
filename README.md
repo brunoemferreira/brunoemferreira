@@ -2,8 +2,6 @@
    <img src="./assets/top2.gif" align="center">
 
 <!-- ****************************************** Bio ******************************************** -->
-</br>
-
 <div align="left">
 
 Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
