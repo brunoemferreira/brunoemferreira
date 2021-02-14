@@ -6,6 +6,17 @@
 
 <br />
 
+<div>
+   <img src="./assets/github.svg" width="35px">
+   <img src="./assets/gitlab.svg" width="35px">
+   <img src="./assets/linkedin.svg" width="35px">
+   <img src="./assets/.svg" width="35px">
+   <img src="./assets/react.svg" width="35px">
+   <img src="./assets/html5.svg" width="35px">
+   <img src="./assets/css3.svg" width="35px">
+</div>
+
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunoemferreira)](https://github.com/brunoemferreira)
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-FFA500?style=flat-square&logo=GitLab&logoColor=white&link=https://github.com/brunoemferreira)](https://gitlab.com/brunoemf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoemf/)](https://www.linkedin.com/in/brunoemf/)
@@ -70,17 +81,17 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <center>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&include_all_commits=true&theme=algolia " alt="Bruno's github stats" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Bruno's github stats" />
       </td>
     </tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=algolia" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=yeblu" />
       </td>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&hide_border=true&theme=algolia&langs_count=20&layout=compact&v2" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" />
       </td>
     </tr>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=algolia" />
+      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=yeblu" />
       </td>
     </tr>
 
