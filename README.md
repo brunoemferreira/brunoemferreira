@@ -35,6 +35,7 @@ I am a self-taught developer, with almost twenty years of experience in desktop 
    <img src="./assets/css3.svg" width="30px"> &ensp;&ensp;
    <img src="./assets/firebase.svg" width="30px">&ensp;&ensp;
    <img src="./assets/oracle3.svg" width="80px">&ensp;&ensp;
+   <img src="./assets/mysql.svg" width="30px">&ensp;&ensp;
 </div>
 
 <!-- ********************************* Tools ******************************************** -->
@@ -64,14 +65,10 @@ I am a self-taught developer, with almost twenty years of experience in desktop 
  <img src="./assets/react.svg" width="30px">&ensp;&ensp;
  <img src="./assets/mongo.png" width="25px">&ensp;&ensp;
  <img src="./assets/java.svg" width="30px">&ensp;&ensp;
- <img src="./assets/kotlin.svg" width="30px">
+ <img src="./assets/kotlin.svg" width="30px">&ensp;&ensp;
+ <img src="./assets/python.svg" width="30px">&ensp;&ensp;
+ <img src="./assets/docker.svg" width="30px">&ensp;&ensp;
 </div>
-
-
-![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white&link=https://github.com/brunoemferreira)
-![MySql Badge](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=MySql&logoColor=white&link=https://github.com/brunoemferreira)
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/brunoemferreira)
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
 
 **Statistics:**
 
