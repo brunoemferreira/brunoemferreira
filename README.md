@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="./assets/top.gif">
+   <img src="./assets/top2.gif">
 </div>
 
 ### Hi there, I'm [Bruno Eduardo!](https://brunoemferreira.github.io/my-resume-page/) 👋
@@ -16,6 +16,23 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 
 - 🔭 Hi I’m currently working at [Indra](https://www.indracompany.com/pt-br/indra) developing on Delphi and Oracle eventually on Java Android and in my free time i'm working on my Ecommerce Platform, using NodeJs and ReactJs.
 - 🌱 I’m currently learning Java, Spring, ReactJs, React Native, NodeJs, JavaScript, TypeScript, Vue...
+
+**My Stack**
+
+<div>
+   <img src="./assets/delphi.png" width="35px">
+   <img src="./assets/nodejs.svg" width="35px">
+   <img src="./assets/javascript.svg" width="35px">
+   <img src="./assets/typescript.svg" width="35px">
+   <img src="./assets/react.svg" width="35px">
+   <img src="./assets/html5.svg" width="35px">
+   <img src="./assets/css3.svg" width="35px">
+</div>
+
+<div>
+
+   
+</div>
 
 **Tools**
 
@@ -53,17 +70,17 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <center>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&include_all_commits=true&theme=highcontrast" alt="Bruno's github stats" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&include_all_commits=true&theme=algolia " alt="Bruno's github stats" />
       </td>
     </tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=highcontrast" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=algolia" />
       </td>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&hide_border=true&theme=highcontrast&langs_count=20&layout=compact&v2" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&hide_border=true&theme=algolia&langs_count=20&layout=compact&v2" />
       </td>
     </tr>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=highcontrast" />
+      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=algolia" />
       </td>
     </tr>
 
