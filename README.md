@@ -3,7 +3,8 @@
 
 <!-- ****************************************** Bio ******************************************** -->
 <p align="left">
-Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
+
+I am a self-taught developer, with almost twenty years of experience in desktop development with Delphi and several databases, including Firebird, Oracle, MySql, PostGreSQL among others, now I am focused on learning JavaScript and migrating to Web development, using the best technologies on the market. Proudly from Campinas, Brazil.
 
 - 🔭 Hi I’m currently working at [Indra](https://www.indracompany.com/pt-br/indra) developing on Delphi and Oracle eventually on Java Android and in my free time i'm working on my Ecommerce Platform, using NodeJs and ReactJs.
 - 🌱 I’m currently learning **NodeJs**, **JavaScript**, **TypeScript**, **ReactJs**, **React Native**, **Java**, **Spring** and **Kotlin** 
@@ -27,7 +28,7 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 </p>
 
 <!-- ********************************* My Stack ******************************************** -->
-<div align="left">
+<div>
    <h4><strong>My Stack</strong></h4>
    <img src="./assets/delphi.png" width="30px">&ensp;&ensp;
    <img src="./assets/html5.svg" width="30px">&ensp;&ensp;
@@ -55,8 +56,8 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 </div>
 
 <!-- ********************************* Always Learning **************************************** -->
-**Always Learning**
-
+<div>
+ <h4><strong>Always Learning</strong></h4>
  <img src="./assets/javascript.svg" width="30px">&ensp;&ensp;
  <img src="./assets/typescript.svg" width="30px">&ensp;&ensp;
  <img src="./assets/nodejs.svg" width="30px">&ensp;&ensp;
@@ -64,6 +65,8 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
  <img src="./assets/mongo.png" width="25px">&ensp;&ensp;
  <img src="./assets/java.svg" width="30px">&ensp;&ensp;
  <img src="./assets/kotlin.svg" width="30px">
+</div>
+
 
 ![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white&link=https://github.com/brunoemferreira)
 ![MySql Badge](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=MySql&logoColor=white&link=https://github.com/brunoemferreira)
