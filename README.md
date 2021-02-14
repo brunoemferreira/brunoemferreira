@@ -11,7 +11,6 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 </div>
 
 <div align="right" min-width="400px" max-width="400px">
-
   <h3><strong>Follow me on Social Media</strong></h3>
 
   [<img src="./assets/octocat.png" width="30px">](https://github.com/brunoemferreira) &ensp;&ensp;
@@ -22,9 +21,9 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 
 </div>
 
-**My Stack**
-
 <div>
+   <h4><strong>My Stack</strong></h4>
+
    <img src="./assets/delphi.png" width="30px">&ensp;&ensp;
    <img src="./assets/oracle3.svg" width="80px">&ensp;&ensp;
    <img src="./assets/html5.svg" width="30px">&ensp;&ensp;
@@ -32,9 +31,9 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
    <img src="./assets/firebase.svg" width="30px"> &ensp;&ensp;
 </div>
 
-**Tools**
-
 <div>
+   <h4><strong>Tools</strong></h4>
+
    <img src="./assets/mint.svg" width="30px">&ensp;&ensp;
    <img src="./assets/windows.svg" width="30px">&ensp;&ensp;
    <img src="./assets/figma.svg" height="35px">&ensp;&ensp;
