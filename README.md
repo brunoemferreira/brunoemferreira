@@ -12,20 +12,6 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 - 🌱 I’m currently learning Java, Spring, ReactJs, React Native, NodeJs, JavaScript, TypeScript, Vue...
 
 
-<!-- ********************************* Social Media ******************************************** -->
-**Follow me on Social Media**
-
-<div>
-
-[<img src="./assets/octocat.png" width="35px">](https://github.com/brunoemferreira) &ensp;&ensp;
-[<img src="./assets/gitlab.svg" width="35px">](https://gitlab.com/brunoemf) &ensp;&ensp;
-[<img src="./assets/linkedin.svg" width="35px">](https://www.linkedin.com/in/brunoemf/) &ensp;&ensp;
-[<img src="./assets/gmail.svg" width="35px">](mailto:brunoemf@gmail.com) &ensp;&ensp;
-[<img src="./assets/Skype.svg" width="35px">](https://join.skype.com/invite/EZxGNG4S9il2)
-
-</div>
-
-
 **My Stack**
 
 <div>
@@ -77,25 +63,40 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
+<center>
+    <tr>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Bruno's github stats" /></a></p>
+      </td>
+    </tr>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=yeblu" /></a></p>
+      </td>
+    <tr>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" /></a></p>
+      </td>
+    </tr>
+    <tr>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=yeblu" /></a></p>
+      </td>
+    </tr>
+
+</center>
+
+
+<!-- ********************************* Social Media ******************************************** -->
+
+
 <div align="center">
-    <tr>
-      <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Bruno's github stats" />
-      </td>
-    </tr>
-      <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=yeblu" />
-      </td>
-    <tr>
-      <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" />
-      </td>
-    </tr>
-    <tr>
-      <td><img width="500px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=yeblu" />
-      </td>
-    </tr>
+
+<h3> Follow me on Social Media</h3>
+
+</br>
+
+[<img src="./assets/octocat.png" width="35px">](https://github.com/brunoemferreira) &ensp;&ensp;
+[<img src="./assets/gitlab.svg" width="35px">](https://gitlab.com/brunoemf) &ensp;&ensp;
+[<img src="./assets/linkedin.svg" width="35px">](https://www.linkedin.com/in/brunoemf/) &ensp;&ensp;
+[<img src="./assets/gmail.svg" width="35px">](mailto:brunoemf@gmail.com) &ensp;&ensp;
+[<img src="./assets/Skype.svg" width="35px">](https://join.skype.com/invite/EZxGNG4S9il2)
 
 </div>
 
-
-### Hi there, I'm [Bruno Eduardo!](https://brunoemferreira.github.io/my-resume-page/) 👋
-
-<br />
+---
