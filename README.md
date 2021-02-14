@@ -1,32 +1,30 @@
+<!-- ********************************* Logotipo ************************************************ -->
 <div align="center">
    <img src="./assets/top2.gif">
 </div>
 
-### Hi there, I'm [Bruno Eduardo!](https://brunoemferreira.github.io/my-resume-page/) 👋
-
-<br />
-
-<div>
-   <img src="./assets/github.svg" width="35px">
-   <img src="./assets/gitlab.svg" width="35px">
-   <img src="./assets/linkedin.svg" width="35px">
-   <img src="./assets/.svg" width="35px">
-   <img src="./assets/react.svg" width="35px">
-   <img src="./assets/html5.svg" width="35px">
-   <img src="./assets/css3.svg" width="35px">
-</div>
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunoemferreira)](https://github.com/brunoemferreira)
-[![GitLab Badge](https://img.shields.io/badge/-GitLab-FFA500?style=flat-square&logo=GitLab&logoColor=white&link=https://github.com/brunoemferreira)](https://gitlab.com/brunoemf)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoemf/)](https://www.linkedin.com/in/brunoemf/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoemf@gmail.com)](mailto:brunoemf@gmail.com)
-[![Skype Badge](https://img.shields.io/badge/-Skype-00AFF0?style=flat-square&logo=Skype&logoColor=white&link=mailto:brunoemf@gmail.com)](https://join.skype.com/invite/EZxGNG4S9il2)
+<!-- ****************************************** Bio ******************************************** -->
+</br>
 
 Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 
 - 🔭 Hi I’m currently working at [Indra](https://www.indracompany.com/pt-br/indra) developing on Delphi and Oracle eventually on Java Android and in my free time i'm working on my Ecommerce Platform, using NodeJs and ReactJs.
 - 🌱 I’m currently learning Java, Spring, ReactJs, React Native, NodeJs, JavaScript, TypeScript, Vue...
+
+
+<!-- ********************************* Social Media ******************************************** -->
+**Follow me on Social Media**
+
+<div>
+
+[<img src="./assets/octocat.png" width="35px">](https://github.com/brunoemferreira) &ensp;&ensp;
+[<img src="./assets/gitlab.svg" width="35px">](https://gitlab.com/brunoemf) &ensp;&ensp;
+[<img src="./assets/linkedin.svg" width="35px">](https://www.linkedin.com/in/brunoemf/) &ensp;&ensp;
+[<img src="./assets/gmail.svg" width="35px">](mailto:brunoemf@gmail.com) &ensp;&ensp;
+[<img src="./assets/Skype.svg" width="35px">](https://join.skype.com/invite/EZxGNG4S9il2)
+
+</div>
+
 
 **My Stack**
 
@@ -79,7 +77,7 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
-<center>
+<div align="center">
     <tr>
       <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Bruno's github stats" />
       </td>
@@ -95,6 +93,9 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       </td>
     </tr>
 
-</center>
+</div>
 
 
+### Hi there, I'm [Bruno Eduardo!](https://brunoemferreira.github.io/my-resume-page/) 👋
+
+<br />
