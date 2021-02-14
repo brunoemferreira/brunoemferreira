@@ -1,3 +1,7 @@
+<div align="center">
+   <img src="./assets/top.gif">
+</div>
+
 ### Hi there, I'm [Bruno Eduardo!](https://brunoemferreira.github.io/my-resume-page/) 👋
 
 <br />
