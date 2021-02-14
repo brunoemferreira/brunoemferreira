@@ -1,5 +1,5 @@
 <!-- ********************************* Logotipo ************************************************ -->
-   <img src="./assets/top2.gif" align="center">
+   <img src="./assets/top3.gif" align="center">
 
 <!-- ****************************************** Bio ******************************************** -->
 <div align="left">
@@ -25,17 +25,21 @@ Hi, I'm Bruno Eduardo, a passionate self-taught developer from Campinas-SP.
 **My Stack**
 
 <div>
-   <img src="./assets/delphi.png" width="35px">
-   <img src="./assets/nodejs.svg" width="35px">
-   <img src="./assets/javascript.svg" width="35px">
-   <img src="./assets/typescript.svg" width="35px">
-   <img src="./assets/react.svg" width="35px">
-   <img src="./assets/html5.svg" width="35px">
+   <img src="./assets/delphi.png" width="35px">&ensp;&ensp;
+   <img src="./assets/nodejs.svg" width="35px">&ensp;&ensp;
+   <img src="./assets/javascript.svg" width="35px">&ensp;&ensp;
+   <img src="./assets/typescript.svg" width="35px">&ensp;&ensp;
+   <img src="./assets/react.svg" width="35px">&ensp;&ensp;
+   <img src="./assets/html5.svg" width="35px">&ensp;&ensp;
    <img src="./assets/css3.svg" width="35px">
 </div>
 
-<div>
+**Tools**
 
+<div>
+   <img src="./assets/git.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/github.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/sourcetree.svg" width="30px">&ensp;&ensp;
    
 </div>
 
