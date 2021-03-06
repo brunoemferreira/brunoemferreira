@@ -79,7 +79,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <center>
     <tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Bruno's github stats" /></a></p>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Bruno's github stats" /></a></p>
       </td>
     </tr>
       <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=yeblu" /></a></p>
