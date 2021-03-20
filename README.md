@@ -9,7 +9,7 @@ I am a self-taught developer, with almost twenty years of experience in desktop 
 - 🔭 Hi I’m currently working at [Indra](https://www.indracompany.com/pt-br/indra) developing on Delphi and Oracle eventually on Java Android and in my free time i'm working on my Ecommerce Platform, using NodeJs and ReactJs.
 - 🌱 I’m currently learning **NodeJs**, **JavaScript**, **TypeScript**, **ReactJs**, **React Native**, **Java**, **Spring** and **Kotlin** 
 - ⚙️ Mastering: `.pas`,`.sql`,`.html`,`.css`
-- 💬 I'm mostly active within the **HTML**, **CSS**, **JavaScript**, **NodeJs** and **Delphi** communities
+- 💬 I'm mostly active within the **HTML**, **CSS**, **JavaScript**, **NodeJs**, **ReactJS** and **Delphi** communities
 
 ### 📧 Get in Touch
 
