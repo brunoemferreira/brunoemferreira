@@ -96,3 +96,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </center>
 
 ---
+
+![Snake animation](https://github.com/brunoemferreira/brunoemferreira/blob/output/github-contribution-grid-snake.svg)
