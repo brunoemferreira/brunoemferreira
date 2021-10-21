@@ -6,8 +6,8 @@
 
 I am a self-taught developer, with almost twenty years of experience in desktop development with Delphi and several databases, including Firebird, Oracle, MySql, PostGreSQL among others, now I am focused on learning JavaScript and migrating to Web development, using the best technologies on the market. Proudly from Campinas, Brazil.
 
-- 🔭 Hi I’m currently working at [Indra](https://www.indracompany.com/pt-br/indra) developing on Delphi and Oracle eventually on Java Android and in my free time i'm working on my Ecommerce Platform, using NodeJs and ReactJs.
-- 🌱 I’m currently learning **NodeJs**, **JavaScript**, **TypeScript**, **ReactJs**, **React Native**, **Java**, **Spring** and **Kotlin** 
+- 🔭 Hi I’m currently working at [Take Blip](https://www.take.net/) developing on C# .NET, JavaScript and Blip Platform, in my free time i'm working on my Ecommerce Platform, using NodeJs and ReactJs.
+- 🌱 I’m currently learning **C# .NET**, **NodeJs**, **JavaScript**, **TypeScript**, **ReactJs**, **React Native**, **Java**, **Spring** and **Kotlin** 
 - ⚙️ Mastering: `.pas`,`.sql`,`.html`,`.css`
 - 💬 I'm mostly active within the **HTML**, **CSS**, **JavaScript**, **NodeJs**, **ReactJS** and **Delphi** communities
 
