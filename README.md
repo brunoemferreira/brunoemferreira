@@ -79,17 +79,17 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <center>
     <tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=yeblu" alt="Bruno's github stats" /></a></p>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=chartreuse-dark" alt="Bruno's github stats" /></a></p>
       </td>
     </tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=yeblu" /></a></p>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=chartreuse-dark" /></a></p>
       </td>
     <tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" /></a></p>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&hide_border=true&theme=chartreuse-dark&langs_count=20&layout=compact&v2" /></a></p>
       </td>
     </tr>
     <tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=yeblu" /></a></p>
+      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=chartreuse-dark" /></a></p>
       </td>
     </tr>
 
