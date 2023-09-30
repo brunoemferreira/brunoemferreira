@@ -15,9 +15,7 @@ I am a self-taught developer, with almost twenty years of experience in desktop 
 
 - GitHub: [github.com/brunoemferreira][github]
 - GitLab: [gitlab.com/brunoemf][gitlab]
-- LinkedIn: [www.linkedin.com/in/brunoemf/][linkedin]
 - Site: coming soon
-- E-mail: brunoemf@gmail.com
 - Skype: [bruno.eduardo.de.moura.ferreira][skype]
 
 [github]: https://github.com/brunoemferreira
