@@ -6,11 +6,6 @@
 
 **Clean code · Scalable solutions · Better tomorrow**
 
-[![GitHub](https://img.shields.io/badge/GitHub-brunoemferreira-161b22?style=for-the-badge&logo=github)](https://github.com/brunoemferreira)
-[![GitLab](https://img.shields.io/badge/GitLab-brunoemf-161b22?style=for-the-badge&logo=gitlab)](https://gitlab.com/brunoemf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Ferreira-161b22?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brunoemf/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20site-161b22?style=for-the-badge&logo=googlechrome)](https://brunoemferreira.github.io/my-resume-page/)
-
 </div>
 
 ---
