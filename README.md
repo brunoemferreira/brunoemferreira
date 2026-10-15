@@ -86,9 +86,7 @@ Software engineer with **20+ years of experience**, from Delphi desktop systems 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoemferreira)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/brunoemf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoemf/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brunoemferreira.github.io/my-resume-page/)
 
 **Clear code. Sustainable solutions. Continuous learning.**
 
