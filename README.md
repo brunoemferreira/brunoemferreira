@@ -8,19 +8,23 @@
 
 </div>
 
-## 👋 About me
+---
+
+## <img src="./assets/icons/user.svg" width="22" height="22" valign="middle" /> About me
 
 Software engineer with **20+ years of experience**, from Delphi desktop systems to modern web applications. I enjoy solving complex problems, building maintainable software, and continuously improving my engineering practices.
 
-- 💻 **Experience:** desktop systems, web applications, APIs, and system integrations
-- 🧱 **Backend:** C#, .NET, REST APIs
-- 🖥️ **Frontend:** React, TypeScript, JavaScript
-- 🗄️ **Data:** PostgreSQL, SQL Server, Oracle, Firebird, MySQL
-- 📐 **Engineering:** Clean Code, SOLID, DRY, YAGNI, Clean Architecture
+- <img src="./assets/icons/briefcase.svg" width="16" height="16" valign="middle" /> **Experience:** desktop systems, web applications, APIs, and system integrations
+- <img src="./assets/icons/backend.svg" width="16" height="16" valign="middle" /> **Backend:** C#, .NET, REST APIs
+- <img src="./assets/icons/frontend.svg" width="16" height="16" valign="middle" /> **Frontend:** React, TypeScript, JavaScript
+- <img src="./assets/icons/database.svg" width="16" height="16" valign="middle" /> **Data:** PostgreSQL, SQL Server, Oracle, Firebird, MySQL
+- <img src="./assets/icons/architecture.svg" width="16" height="16" valign="middle" /> **Engineering:** Clean Code, SOLID, DRY, YAGNI, Clean Architecture
 
-## 🧰 Tech stack
+---
 
-**Languages & frameworks**
+## <img src="./assets/icons/tools.svg" width="22" height="22" valign="middle" /> Tech stack
+
+### <img src="./assets/icons/code.svg" width="18" height="18" valign="middle" /> Languages & frameworks
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -29,7 +33,7 @@ Software engineer with **20+ years of experience**, from Delphi desktop systems 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white)
 
-**Databases & cloud**
+### <img src="./assets/icons/cloud.svg" width="18" height="18" valign="middle" /> Databases & cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -39,28 +43,32 @@ Software engineer with **20+ years of experience**, from Delphi desktop systems 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔎 Currently exploring
+---
+
+## <img src="./assets/icons/explore.svg" width="22" height="22" valign="middle" /> Currently exploring
 
 `Clean Architecture` `DDD` `SOLID` `Design Patterns` `Docker` `Kubernetes` `AI` `System Design`
 
-## 🎯 Featured focus
+---
+
+## <img src="./assets/icons/target.svg" width="22" height="22" valign="middle" /> Featured focus
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>⌘ Backend & APIs</h3>
+      <h3><img src="./assets/icons/backend.svg" width="18" height="18" valign="middle" /> Backend & APIs</h3>
       Building robust, testable APIs and backend services with .NET and C#.
       <br/><br/>
       <code>.NET</code> <code>C#</code> <code>Web API</code>
     </td>
     <td width="33%" valign="top">
-      <h3>▣ Web applications</h3>
+      <h3><img src="./assets/icons/frontend.svg" width="18" height="18" valign="middle" /> Web applications</h3>
       Creating modern, responsive interfaces with React and TypeScript.
       <br/><br/>
       <code>React</code> <code>TypeScript</code> <code>JavaScript</code>
     </td>
     <td width="33%" valign="top">
-      <h3>◉ Data & architecture</h3>
+      <h3><img src="./assets/icons/database.svg" width="18" height="18" valign="middle" /> Data & architecture</h3>
       Designing reliable data models and maintainable software architectures.
       <br/><br/>
       <code>PostgreSQL</code> <code>SQL Server</code> <code>DDD</code>
@@ -68,7 +76,9 @@ Software engineer with **20+ years of experience**, from Delphi desktop systems 
   </tr>
 </table>
 
-## 📊 GitHub activity
+---
+
+## <img src="./assets/icons/activity.svg" width="22" height="22" valign="middle" /> GitHub activity
 
 <div align="center">
 
@@ -81,7 +91,9 @@ Software engineer with **20+ years of experience**, from Delphi desktop systems 
 
 </div>
 
-## 🤝 Connect
+---
+
+## <img src="./assets/icons/connect.svg" width="22" height="22" valign="middle" /> Connect
 
 <div align="center">
 
