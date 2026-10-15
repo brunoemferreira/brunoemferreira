@@ -1,91 +1,106 @@
-<!-- ********************************* Logotipo ************************************************ -->
-   <img src="./assets/top5.gif" align="center">
+<div align="center">
 
-<!-- ****************************************** Bio ******************************************** -->
-<p align="left">
+# Bruno Eduardo de Moura Ferreira
 
-I am a self-taught developer, with almost twenty years of experience in desktop development with Delphi and several databases, including Firebird, Oracle, MySql, PostGreSQL among others, now I am focused on learning JavaScript and migrating to Web development, using the best technologies on the market. Proudly from Campinas, Brazil.
+### Software Engineer | .NET • React • TypeScript
 
-- 🌱 I’m currently learning **C# .NET**, **NodeJs**, **JavaScript**, **TypeScript**, **ReactJs**, **React Native**, **Java**, **Spring** and **Kotlin** 
-- ⚙️ Mastering: `.pas`,`.sql`,`.html`,`.css`
-- 💬 I'm mostly active within the **HTML**, **CSS**, **JavaScript**, **NodeJs**, **ReactJS** and **Delphi** communities
+**Clean code · Scalable solutions · Better tomorrow**
 
-### 📧 Get in Touch
+[![GitHub](https://img.shields.io/badge/GitHub-brunoemferreira-161b22?style=for-the-badge&logo=github)](https://github.com/brunoemferreira)
+[![GitLab](https://img.shields.io/badge/GitLab-brunoemf-161b22?style=for-the-badge&logo=gitlab)](https://gitlab.com/brunoemf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Ferreira-161b22?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brunoemf/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20site-161b22?style=for-the-badge&logo=googlechrome)](https://brunoemferreira.github.io/my-resume-page/)
 
-- GitHub: [github.com/brunoemferreira][github]
-- GitLab: [gitlab.com/brunoemf][gitlab]
-
-[github]: https://github.com/brunoemferreira
-[gitlab]: https://gitlab.com/brunoemf
-[linkedin]: https://www.linkedin.com/in/brunoemf/
-[skype]: https://join.skype.com/invite/EZxGNG4S9il2
-
-</p>
-
-<!-- ********************************* My Stack ******************************************** -->
-<div>
-   <h4><strong>My Stack</strong></h4>
-   <img src="./assets/delphi.png" width="30px">&ensp;&ensp;
-   <img src="./assets/html5.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/css3.svg" width="30px"> &ensp;&ensp;
-   <img src="./assets/firebase.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/oracle3.svg" width="80px">&ensp;&ensp;
-   <img src="./assets/mysql.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/firebird.svg" width="30px">&ensp;&ensp;
 </div>
 
-<!-- ********************************* Tools ******************************************** -->
-<div>
-   <h4><strong>Tools</strong></h4>
-   <img src="./assets/mint.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/windows.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/vscode.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/androidstudio.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/eclipse.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/jira.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/Insomnia.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/postman.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/git.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/github.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/sourcetree.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/notion.png" width="30px">&ensp;&ensp;
-   <img src="./assets/figma.svg" width="20px">&ensp;&ensp;
+---
+
+## 👋 About me
+
+Software engineer with **20+ years of experience**, from Delphi desktop systems to modern web applications. I enjoy solving complex problems, building maintainable software, and continuously improving my engineering practices.
+
+- 💻 **Experience:** desktop systems, web applications, APIs, and system integrations
+- 🧱 **Backend:** C#, .NET, REST APIs
+- 🖥️ **Frontend:** React, TypeScript, JavaScript
+- 🗄️ **Data:** PostgreSQL, SQL Server, Oracle, Firebird, MySQL
+- 📐 **Engineering:** Clean Code, SOLID, DRY, YAGNI, Clean Architecture
+
+## 🧰 Tech stack
+
+**Languages & frameworks**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white)
+
+**Databases & cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-E64A19?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🔎 Currently exploring
+
+`Clean Architecture` `DDD` `SOLID` `Design Patterns` `Docker` `Kubernetes` `AI` `System Design`
+
+## 🎯 Featured focus
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⌘ Backend & APIs</h3>
+      Building robust, testable APIs and backend services with .NET and C#.
+      <br/><br/>
+      <code>.NET</code> <code>C#</code> <code>Web API</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>▣ Web applications</h3>
+      Creating modern, responsive interfaces with React and TypeScript.
+      <br/><br/>
+      <code>React</code> <code>TypeScript</code> <code>JavaScript</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>◉ Data & architecture</h3>
+      Designing reliable data models and maintainable software architectures.
+      <br/><br/>
+      <code>PostgreSQL</code> <code>SQL Server</code> <code>DDD</code>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/brunoemferreira">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
+</a>
+<a href="https://github.com/brunoemferreira">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoemferreira&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+</a>
+
 </div>
 
-<!-- ********************************* Always Learning **************************************** -->
-<div>
- <h4><strong>Always Learning</strong></h4>
- <img src="./assets/javascript.svg" width="30px">&ensp;&ensp;
- <img src="./assets/typescript.svg" width="30px">&ensp;&ensp;
- <img src="./assets/nodejs.svg" width="30px">&ensp;&ensp;
- <img src="./assets/react.svg" width="30px">&ensp;&ensp;
- <img src="./assets/mongo.png" width="25px">&ensp;&ensp;
- <img src="./assets/java.svg" width="30px">&ensp;&ensp;
- <img src="./assets/kotlin.svg" width="30px">&ensp;&ensp;
- <img src="./assets/python.svg" width="30px">&ensp;&ensp;
- <img src="./assets/docker.svg" width="30px">&ensp;&ensp;
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoemferreira)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/brunoemf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoemf/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brunoemferreira.github.io/my-resume-page/)
+
+**Clear code. Sustainable solutions. Continuous learning.**
+
 </div>
 
-**Statistics:**
+---
 
-![](https://komarev.com/ghpvc/?username=brunoemferreira&color=blue&style=flat)
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
-
-<center>
-    <tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=chartreuse-dark" alt="Bruno's github stats" /></a></p>
-      </td>
-    </tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoemferreira&layout=compact&langs_count=20&hide_border=true&theme=chartreuse-dark" /></a></p>
-      </td>
-    <tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoemferreira&hide_border=true&theme=chartreuse-dark&langs_count=20&layout=compact&v2" /></a></p>
-      </td>
-    </tr>
-    <tr>
-      <td><p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoemferreira&hide_border=true&theme=chartreuse-dark" /></a></p>
-      </td>
-    </tr>
-
-</center>
+<sub>Note: GitHub statistics are provided by an external service and may occasionally be unavailable. Most-used languages do not necessarily represent proficiency.</sub>
