@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 👋 About me
 
 Software engineer with **20+ years of experience**, from Delphi desktop systems to modern web applications. I enjoy solving complex problems, building maintainable software, and continuously improving my engineering practices.
