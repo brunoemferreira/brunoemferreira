@@ -86,12 +86,16 @@ Engenheiro de software com **mais de 20 anos de experiência**, com sólida traj
 ## <img src="./assets/icons/activity.svg" width="22" height="22" valign="middle" /> Atividade no GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brunoemferreira/brunoemferreira/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  [![Trilha da carreira](https://github-timeline.frangolab.com/embed/brunoemferreira/trilha.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/brunoemferreira?lang=pt-BR)
+
+  [![Rio de linguagens](https://github-timeline.frangolab.com/embed/brunoemferreira/linguagens.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/brunoemferreira?lang=pt-BR)
+
+
 </div>
 
 <br/>
 
-[![Trilha da carreira](https://github-timeline.frangolab.com/embed/brunoemferreira/trilha.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/brunoemferreira?lang=pt-BR)
+
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Estatísticas GitHub" />
