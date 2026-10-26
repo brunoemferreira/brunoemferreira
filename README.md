@@ -91,6 +91,8 @@ Engenheiro de software com **mais de 20 anos de experiência**, com sólida traj
 
 <br/>
 
+[![Trilha da carreira](https://github-timeline.frangolab.com/embed/brunoemferreira/trilha.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/brunoemferreira?lang=pt-BR)
+
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=brunoemferreira&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Estatísticas GitHub" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoemferreira&layout=compact&hide_border=true&theme=github_dark" alt="Linguagens mais utilizadas" />
