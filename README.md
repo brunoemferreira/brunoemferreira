@@ -89,9 +89,8 @@ Engenheiro de software com **mais de 20 anos de experiência**, com sólida traj
   [![Trilha da carreira](https://github-timeline.frangolab.com/embed/brunoemferreira/trilha.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/brunoemferreira?lang=pt-BR)
 </div>
 
-<div align="center">
+
   [![Rio de linguagens](https://github-timeline.frangolab.com/embed/brunoemferreira/linguagens.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/brunoemferreira?lang=pt-BR)
-</div>
 
 <br/>
 
